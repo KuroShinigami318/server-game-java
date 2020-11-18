@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="2-Player-Game_Server">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/2-Player-Game_Server.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
